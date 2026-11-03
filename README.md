@@ -1,5 +1,6 @@
 # FX-LSTM
-Utilizing LSTM CNN to predict time-series data for EUR_USD foreign currency conversion rates
+Utilizing LSTM CNN to predict time-series data for EUR_USD foreign currency conversion rates.
+
 
 
 # Problem Description
@@ -42,4 +43,8 @@ The results of the inital model gave prediction prices for the next 24 hour pric
 
 In conclusion, the LSTM model could be a profitable algorithm to be used to predict the hourly closing prices of the EUR/USD currency pair and other Currency pair markets. It shows it's promises in this use case for me by demonstrating the model's capability to capture temporal dependencies in time series data. The addition of more advanced technical indicators will further enhanced the model's performance and layering in other models developed will attribute to higher accuracies in theory. While the results are promising, further improvements will be made by incorporating more features, fine-tuning hyperparameters, and exploring other deep learning architectures. 
 
+
+
+# Future Integrations
+[Project Link](https://github.com/ramruph/Forex-Web-App) - integrating machine learning model with web application
 
